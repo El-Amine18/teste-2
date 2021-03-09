@@ -1,0 +1,12 @@
+---
+title: "Homework Exercice I"
+date: "`r format(Sys.time(), '%d %B %Y')`"
+author: "Adel Ben Snoussi, amine maamar, Eric Brandstätter, Nathanaël G. Dürst"
+output:
+  html_document :
+    code_folding: hide
+---
+
+
+
+![In this Monday, March 16, 2020, file photo, traders work on the floor of the New York Stock Exchange near the end of the trading day. The New York Stock Exchange will partially reopen its trading floor, Tuesday, May 26, after closing it in late March due to the coronavirus pandemic.](https://pbs.twimg.com/profile_banners/574889884/1606834875/1500x500)
